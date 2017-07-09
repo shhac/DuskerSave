@@ -1,5 +1,7 @@
 # DuskerSave
 
+Save parsing for the drones in space game [Duskers](http://store.steampowered.com/app/254320/Duskers/)
+
 ### Usage
 
  1. Store save file (_universedata.txt_) in a variable, e.g. `universedata`
@@ -32,5 +34,6 @@ e.g. to find which drone has an item
 
 ### Notes
 
-Any loss of data caused to your game is your own responsibility. Always keep backups.
+ - Any loss of data caused to your game is your own responsibility. Always keep backups.
+ - Pull requests welcome
 
